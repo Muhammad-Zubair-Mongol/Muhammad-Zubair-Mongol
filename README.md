@@ -69,20 +69,20 @@
 ## GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MzMongol&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MzMongol&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair-Mongol&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zubair-Mongol&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MzMongol&layout=compact&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MzMongol&theme=tokyonight" width="96%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair-Mongol&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Zubair-Mongol&theme=tokyonight" width="96%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MzMongol&color=00CFFF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zubair-Mongol&color=00CFFF&style=for-the-badge&label=Profile+Views" />
   <br/>
-  <img src="https://img.shields.io/github/followers/MzMongol?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/MzMongol?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/Muhammad-Zubair-Mongol?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Muhammad-Zubair-Mongol?label=Stars&style=social" />
 </p>
